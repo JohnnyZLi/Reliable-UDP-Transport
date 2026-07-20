@@ -1,0 +1,6 @@
+bin/myclient
+bin/myserver
+*.log
+*.svg
+*.part
+received/
